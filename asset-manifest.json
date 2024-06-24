@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-bmi/static/css/main.e180d080.css",
+    "main.js": "/react-bmi/static/js/main.e70b8a85.js",
+    "static/js/787.7779eadb.chunk.js": "/react-bmi/static/js/787.7779eadb.chunk.js",
+    "index.html": "/react-bmi/index.html",
+    "main.e180d080.css.map": "/react-bmi/static/css/main.e180d080.css.map",
+    "main.e70b8a85.js.map": "/react-bmi/static/js/main.e70b8a85.js.map",
+    "787.7779eadb.chunk.js.map": "/react-bmi/static/js/787.7779eadb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e180d080.css",
+    "static/js/main.e70b8a85.js"
+  ]
+}
